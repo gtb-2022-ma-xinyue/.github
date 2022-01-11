@@ -4,5 +4,5 @@
 - 喜欢猫
 
 **我没有照片 看看我家猫吧！**
-![image](https://github.com/gtb-2022-ma-xinyue/.github/blob/main/assets/1.jpg?raw=true)
-<img src="https://github.com/gtb-2022-ma-xinyue/.github/blob/main/assets/1.jpg?raw=true" width="100px"/>
+
+<img src="https://github.com/gtb-2022-ma-xinyue/.github/blob/main/assets/1.jpg?raw=true" width="200px"/>
